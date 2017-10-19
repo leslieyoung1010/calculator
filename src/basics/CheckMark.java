@@ -1,6 +1,6 @@
 package basics;
 
-public class CheckMarks {
+public class CheckMark {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
